@@ -1,0 +1,31 @@
+9
+DEL,Indira Gandhi International Airport
+BOM,Chhatrapati Shivaji International Airport
+MAA,Chennai International Airport
+BLR,Kempegowda International Airport
+HYD,Rajiv Gandhi International Airport
+CCU,Netaji Subhas Chandra Bose International Airport
+COK,Cochin International Airport
+JAI,Dehradun AP
+DDN,Dehradun AP
+DEL,DDN,400,120,5000
+DEL,CCU,1300,120,7000
+DEL,BLR,1740,150,8200
+DEL,MAA,1760,150,8500
+DEL,BOM,1148,125,7500
+BOM,HYD,620,70,4500
+BOM,BLR,845,90,5000
+BOM,DEL,1148,130,7800
+MAA,COK,500,60,3500
+MAA,BLR,284,45,3000
+MAA,DEL,1760,155,8700
+BLR,HYD,500,60,3800
+BLR,MAA,284,50,3200
+BLR,BOM,845,95,5200
+BLR,DEL,1740,155,8500
+HYD,BLR,500,65,4000
+HYD,BOM,620,75,4700
+CCU,MAA,1370,130,7800
+CCU,DEL,1300,125,7200
+COK,BLR,360,55,3500
+COK,MAA,500,65,3700
